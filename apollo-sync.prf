@@ -1,0 +1,12 @@
+root = /Users/michael/Apollo/
+root = /Users/michael/Library/Mobile\ Documents/iCloud~md~obsidian/Documents/Apollo\ iCloud/
+
+# Uncomment the following line to automatically resolve conflicts by preferring newer files
+prefer = newer
+
+# Uncomment the following line to run in batch mode without user interaction
+batch = true
+
+# Uncomment the following line to enable logging
+# log = true
+
