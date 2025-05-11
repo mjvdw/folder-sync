@@ -1,2 +1,2 @@
 #!/bin/bash
-unison apollo-sync -batch
+/opt/homebrew/bin/unison apollo-sync -batch
